@@ -1,2 +1,3 @@
-# crud-nodejs-swagger
-crud in nodejs with swagger api
+# Univsity App
+to run 
+node app.js or nodemon app.js
